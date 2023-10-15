@@ -15,5 +15,5 @@ I am a fullstack developer from Latvia. I'm still a student at the moment.
 
 ## Github statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ja1z666&show_icons=true&theme=tokyonight)
-[![ja1z666](https://github-readme-stats.vercel.app/api/top-langs/?username=ja1z666&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/ja1z666/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ja1zhf&show_icons=true&theme=tokyonight)
+[![ja1zhf](https://github-readme-stats.vercel.app/api/top-langs/?username=ja1zhf&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/ja1zhf/)
